@@ -23,6 +23,7 @@ gem 'bootstrap'
 gem 'simple_form'
 gem 'devise'
 gem 'paperclip'
+gem 'masonry-rails'
 
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
